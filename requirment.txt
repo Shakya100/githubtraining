@@ -5,3 +5,6 @@ colors
 vibrents
 dark mode
 video Option
+payment option
+send money
+receive money
